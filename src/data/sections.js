@@ -1,0 +1,16 @@
+export const SECTIONS = [
+        { id: "s0", label: "Intro" },
+        { id: "s1", label: "1 Lesson Planning" },
+        { id: "s2", label: "2 Peer Feedback" },
+        { id: "s3", label: "3 River Leadership" },
+        { id: "s4", label: "4 River Living" },
+        { id: "s5", label: "5 River Travel" },
+        { id: "s6", label: "6 River Rescue" },
+        { id: "s7", label: "7 Canoe Skills" },
+        { id: "s8", label: "8 Raft Skills" },
+        { id: "s9", label: "9 Kayak Skills" },
+        { id: "s10", label: "10 Packrafting" },
+        { id: "s11", label: "Key Takeaways" },
+        { id: "s_fc", label: "🃏 Flashcards" },
+        { id: "s_quiz", label: "📝 Quiz" },
+      ];
